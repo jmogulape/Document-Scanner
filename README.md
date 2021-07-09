@@ -1,1 +1,2 @@
-Open Document Scanner
+Open Document Scanner app
+
