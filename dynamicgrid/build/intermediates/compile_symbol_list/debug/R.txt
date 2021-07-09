@@ -1,0 +1,2 @@
+int dimen dgv_overlap_if_switch_straight_line 0x0
+int id dgv_wobble_tag 0x0

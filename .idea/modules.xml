@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Document-Scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/Document-Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Document-Scanner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Document-Scanner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicgrid/Document-Scanner.dynamicgrid.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicgrid/Document-Scanner.dynamicgrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/Document-Scanner.openCVLibrary310.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/Document-Scanner.openCVLibrary310.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photo-editor-sdk-2.0.27/Document-Scanner.photo-editor-sdk-2.0.27.iml" filepath="$PROJECT_DIR$/.idea/modules/photo-editor-sdk-2.0.27/Document-Scanner.photo-editor-sdk-2.0.27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tedpicker/Document-Scanner.tedpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/tedpicker/Document-Scanner.tedpicker.iml" />
+    </modules>
+  </component>
+</project>

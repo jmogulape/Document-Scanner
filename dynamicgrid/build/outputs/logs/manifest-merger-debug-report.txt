@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:3:11-44
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:5:11-36
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:4:11-34
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+	android:targetSdkVersion
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:15-44
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml
+		ADDED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml:7:5-46
+		INJECTED from D:\Uni\FYP\Document-Scanner\dynamicgrid\AndroidManifest.xml

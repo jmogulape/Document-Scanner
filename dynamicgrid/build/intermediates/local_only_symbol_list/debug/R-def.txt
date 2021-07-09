@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+dimen dgv_overlap_if_switch_straight_line
+id dgv_wobble_tag
